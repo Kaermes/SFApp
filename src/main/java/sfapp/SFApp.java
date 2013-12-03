@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package sfapp;
+
 
 import java.io.File;
 import java.net.URL;
@@ -16,7 +16,7 @@ import net.lingala.zip4j.core.ZipFile;
  *
  * @author Aleksi Aalto
  */
-public class SoftwareFactoryApplication {
+public class SFApp {
 
     
     public static void main(String[] args) {
