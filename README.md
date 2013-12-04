@@ -18,7 +18,7 @@ SFApp
 -run the project
 
 
-*What does it do:
+*** What does it do:
 
 -Fetches the data from cert.fi 
 
@@ -32,7 +32,7 @@ SFApp
 
 
 
-Output will be in the specified format:
+*** Output will be in the specified format:
 
 category_name space n \n
 
