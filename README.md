@@ -20,7 +20,7 @@ goes through the list, analyzing the frequency of locations and categories
 outputs the results into system.out (Run window in Netbeans)
 
 Output will be in the specified format:
-<category_name><space><n>\n
-<location_name><space><n>\n
+category_name space n \n
+location_name space n \n
 
 (there will be no other output, nor is there any space between the two different outputs.)
