@@ -1,36 +1,34 @@
 SFApp
 
-Needed/recommended: 
+*** Needed/recommended: 
 
-Maven (http://maven.apache.org/download.cgi) 
+-Maven (http://maven.apache.org/download.cgi) 
 
-Netbeans (https://netbeans.org/downloads/)
-
-
-Steps:
-
-git clone the repository (git clone https://github.com/Kaermes/SFApp.git)
-
-open the project in Netbeans 
-
-(File -> Open project -> navigate to project folder, should be recognized as a Maven project)
-
-build with dependencies (rightclick project, select Build with Dependencies)
-
-run the project
+-Netbeans (https://netbeans.org/downloads/)
 
 
-What does it do:
+*** Steps:
 
-Fetches the data from cert.fi 
+-git clone the repository (git clone https://github.com/Kaermes/SFApp.git)
 
-unzips it
+-open the project in Netbeans (File -> Open project -> navigate to project folder, should be recognized as a Maven project)
 
-reads all the lines from each file into a single list
+-build with dependencies (rightclick project, select Build with Dependencies)
 
-goes through the list, analyzing the frequency of locations and categories
+-run the project
 
-outputs the results into system.out (Run window in Netbeans)
+
+*What does it do:
+
+-Fetches the data from cert.fi 
+
+-unzips it
+
+-reads all the lines from each file into a single list
+
+-goes through the list, analyzing the frequency of locations and categories
+
+-outputs the results into system.out (Run window in Netbeans)
 
 
 
